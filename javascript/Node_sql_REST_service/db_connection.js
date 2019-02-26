@@ -4,7 +4,7 @@ var con = mysql.createConnection({
   host: "aws-test.cm7d5lgfchgt.us-east-1.rds.amazonaws.com",
   port: "3306"
   user: "awstest",
-  password: "awstest.2017"
+  password: "awstest.2019"
   database: "awstest"
 });
 
